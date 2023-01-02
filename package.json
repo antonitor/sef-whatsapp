@@ -1,0 +1,13 @@
+{
+  "name": "sef-whatsapp",
+  "version": "1.0.0",
+  "description": "This backend exposes the webhooks necessary for the implementation of WhatsApp Cloud Api for Santa Eulalia Ferry customers.",
+  "main": "index.js",
+  "author": "antonitor",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
